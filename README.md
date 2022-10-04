@@ -19,3 +19,5 @@ References
 
 Udacity Notes
 Scalahosting website
+
+The Bikeshare udacity project analyses the bicycle system for the three major USA cities
