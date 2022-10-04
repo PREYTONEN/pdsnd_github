@@ -37,3 +37,5 @@ The Files
 chicago.csv
 new_york_city.csv
 washington.csv
+
+The descriptive statistics computed were used to analyse the three cities.
